@@ -14,11 +14,7 @@ gem 'sorcery-yandex', git: "https://github.com/teachbase/sorcery-yandex"
 
 And then execute:
 
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install sorcery-yandex
+    $ bundle install
 
 ## Usage
 
